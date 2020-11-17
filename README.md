@@ -1,13 +1,13 @@
 # Skyline: Adaptive Computation for Open-Domain Question Answering
 Source code of "Don’t Read Too Much into it: Adaptive Computation for Open-Domain Question Answering"  EMNLP2020
 
-
+*Coming Soon*
 
 
 
 ## Citation
 
-```latex
+```
 @inproceedings{wu-etal-2020-dont-read,
     title = "Don{'}t Read Too Much Into It: Adaptive Computation for Open-Domain Question Answering",
     author = "Wu, Yuxiang  and
@@ -23,6 +23,3 @@ Source code of "Don’t Read Too Much into it: Adaptive Computation for Open-Dom
     pages = "3029--3039",
 }
 ```
-
-​	
-
